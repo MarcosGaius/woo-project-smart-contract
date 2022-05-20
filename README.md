@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Woo Project Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This simpke smart contract have the functions that fundaments the Woo Portal website. I used hardhat as the environment to locally deploy the contract, and Alchemy to deploy the contract at the Rinkeby Testnet.
+https://github.com/MarcosGaius/woo-project
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
